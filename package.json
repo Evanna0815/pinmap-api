@@ -1,5 +1,8 @@
 {
   "type": "module",
-  "name": "makanmap-api",
-  "version": "1.0.0"
+  "name": "pinmap-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
 }
